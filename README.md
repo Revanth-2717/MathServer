@@ -128,7 +128,8 @@ urlpatterns = [
 ```    
 
 ## SERVER SIDE PROCESSING:
-![screenshot](https://github.com/Revanth-2717/MathServer/assets/152462274/a96c5e6c-ed6c-48f3-9ca9-dc293f0d3ed3)
+![Screenshot](https://github.com/Revanth-2717/MathServer/assets/152462274/2d298ca2-5311-47a5-8fee-72824762b3e9)
+
 
 ## HOMEPAGE:
 ![screenshot](https://github.com/Revanth-2717/MathServer/assets/152462274/54f4cffc-ca56-4949-a603-f7eea29de5c5)
