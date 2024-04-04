@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:03.04.2024
+## Date:04.04.2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -71,7 +71,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>surfacearea of right cylinder</h1>
-        <h3>K.ABHINESWAR REDDY(212223040084)</h3>
+        <h3>P.REVANTH(212223040143)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -125,11 +125,13 @@ urlpatterns = [
     path('squarearea/',views.squarearea,name="squarearea"),
     path('',views.squarearea,name="squarearea")
 ]
-```
+```    
 
 ## SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2024-04-03 212622.png>)
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-04-03 212418.png>)
+![screenshot](https://github.com/Revanth-2717/MathServer/assets/152462274/54f4cffc-ca56-4949-a603-f7eea29de5c5)
+
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
